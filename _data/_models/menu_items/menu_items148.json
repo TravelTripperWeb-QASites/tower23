@@ -1,0 +1,12 @@
+{
+  "order": 30,
+  "menu_type": "Dinner",
+  "category": "menu_category22",
+  "title": "WHOLE GRILLED FISH ",
+  "detail": "<p>local catch flatbread, lettuce cups, sushi rice, pickles, sauces</p>",
+  "item_price": [
+    {
+      "price": "75"
+    }
+  ]
+}

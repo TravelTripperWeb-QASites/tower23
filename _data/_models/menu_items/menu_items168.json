@@ -1,0 +1,17 @@
+{
+  "title": "STIEGL",
+  "menu_type": "Sushi + Raw",
+  "category": "menu_category24",
+  "detail": "<p>3.2% grapefruit radler</p>\n<p>austria</p>",
+  "item_price": [
+    {
+      "name": "14oz",
+      "price": "8"
+    },
+    {
+      "name": "20oz",
+      "price": "10"
+    }
+  ],
+  "order": 10
+}

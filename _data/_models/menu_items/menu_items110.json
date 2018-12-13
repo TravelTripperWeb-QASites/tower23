@@ -1,0 +1,12 @@
+{
+  "title": "ALBACORE TUNA SANDWICH",
+  "menu_type": "Brunch",
+  "category": "menu_category1",
+  "item_price": [
+    {
+      "price": "16"
+    }
+  ],
+  "detail": "<p>grilled rare, sesame-ginger aioli, togarashi, lettuce, tomato, grilled green onions, sprouts, avocado, crispy wonton, garlic fries or salad</p>",
+  "order": 31
+}

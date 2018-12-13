@@ -1,0 +1,11 @@
+{
+  "title": "FRENCH PRESS",
+  "menu_type": "Dessert",
+  "item_price": [
+    {
+      "price": "6"
+    }
+  ],
+  "order": 6,
+  "category": "menu_category11"
+}

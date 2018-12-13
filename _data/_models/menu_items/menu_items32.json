@@ -1,0 +1,12 @@
+{
+  "order": 21,
+  "title": "CANNONBALL",
+  "menu_type": "Lunch",
+  "category": "menu_category6",
+  "item_price": [
+    {
+      "price": "15"
+    }
+  ],
+  "detail": "<p>seared albacore, yamagobo, cucumber, ahi, avocado, lemon, masago, daikon, garlic chips, ponzu</p>"
+}

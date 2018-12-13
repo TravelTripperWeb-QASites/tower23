@@ -1,0 +1,12 @@
+{
+  "order": 15,
+  "title": "LUSTAU",
+  "menu_type": "Dessert",
+  "category": "menu_category13",
+  "item_price": [
+    {
+      "name": "east india solera sherry",
+      "price": "11"
+    }
+  ]
+}

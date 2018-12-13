@@ -1,0 +1,12 @@
+{
+  "title": "FRIED CALAMARI",
+  "menu_type": "Lunch",
+  "category": "menu_category2",
+  "item_price": [
+    {
+      "price": "14"
+    }
+  ],
+  "detail": "<p>lemon, broccoli, fresno chilies, sweet chili aioli</p>",
+  "order": 4
+}

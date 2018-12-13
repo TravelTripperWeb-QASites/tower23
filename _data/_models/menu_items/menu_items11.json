@@ -1,0 +1,16 @@
+{
+  "title": "BUTTERMILK PANCAKES",
+  "menu_type": "Breakfast",
+  "detail": "<p>whipped butter, powdered sugar, maple syrup + add $2 each : candied pecans, chocolate chips, bananas or berries</p>",
+  "order": 10,
+  "item_price": [
+    {
+      "name": "short",
+      "price": "10"
+    },
+    {
+      "name": " tall stack",
+      "price": "13"
+    }
+  ]
+}

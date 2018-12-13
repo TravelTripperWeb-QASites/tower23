@@ -1,0 +1,12 @@
+{
+  "title": " CHOOSE YOUR TOPPINGS",
+  "menu_type": "Lunch",
+  "category": "menu_category9",
+  "order": 50,
+  "detail": "<ul>\n<li>avocado</li>\n<li>red onion</li>\n<li>green onions</li>\n<li>cucumber</li>\n<li>edamame</li>\n<li>seaweed salad</li>\n<li>daikon</li>\n<li>masago</li>\n<li>pineapple</li>\n<li>jalape&ntilde;o peppers</li>\n<li>pickled ginger</li>\n<li>fried wontons</li>\n<li>sweet + spicy sesame cashews</li>\n<li>pickled jicama</li>\n<li>garlic chips</li>\n<li>sesame-kale crumble</li>\n</ul>\n<p>+ add extra toppings 0.75</p>",
+  "item_price": [
+    {
+      "name": "choose five"
+    }
+  ]
+}

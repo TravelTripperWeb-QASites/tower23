@@ -1,0 +1,12 @@
+{
+  "order": 11,
+  "menu_type": "Drinks",
+  "category": "menu_category23",
+  "title": "THE FAR EAST SIDE",
+  "item_price": [
+    {
+      "price": "13"
+    }
+  ],
+  "detail": "<p>hendricks gin, chartreuse, cucumber, shiso, lime</p>"
+}

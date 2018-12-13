@@ -1,0 +1,12 @@
+{
+  "title": "GRILLED OCTOPUS SALAD",
+  "menu_type": "Lunch",
+  "category": "menu_category5",
+  "detail": "<p>baby greens, japanese sweet potatoes, pickled shiitake mushrooms, avocado, green onions, cucumber, peanuts, ponzu</p>",
+  "item_price": [
+    {
+      "price": "16"
+    }
+  ],
+  "order": 8
+}

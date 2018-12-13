@@ -1,0 +1,12 @@
+{
+  "title": "ICE CREAM SANDWICH",
+  "menu_type": "Dessert",
+  "category": "menu_category10",
+  "item_price": [
+    {
+      "price": "9"
+    }
+  ],
+  "detail": "<p>peanut butter cookie, banana ice cream, pineapple, cherry, warm peanut milk</p>",
+  "order": 4
+}

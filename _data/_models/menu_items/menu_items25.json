@@ -1,0 +1,12 @@
+{
+  "title": "MAC + CHEESE",
+  "menu_type": "Lunch",
+  "category": "menu_category1",
+  "item_price": [
+    {
+      "price": "16"
+    }
+  ],
+  "detail": "<p>ham, fried egg, smoked gouda, stewed tomatoes, truffle, herb breadcrumbs, garlic fries or salad</p>",
+  "order": 14
+}

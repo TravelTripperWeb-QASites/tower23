@@ -1,0 +1,11 @@
+{
+  "title": "ACAI BOWL",
+  "menu_type": "Brunch",
+  "item_price": [
+    {
+      "price": "15"
+    }
+  ],
+  "detail": "<p>coconut-banana-pecan granola, seasonal fruit, peanut butter, bananas</p>",
+  "order": 2
+}

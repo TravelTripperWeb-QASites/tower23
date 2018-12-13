@@ -1,0 +1,12 @@
+{
+  "order": 27,
+  "title": "CALIFORNIA",
+  "menu_type": "Lunch",
+  "category": "menu_category7",
+  "item_price": [
+    {
+      "price": "9"
+    }
+  ],
+  "detail": "<p>crab, avocado, cucumber</p>"
+}

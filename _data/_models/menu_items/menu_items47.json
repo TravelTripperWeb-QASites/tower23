@@ -1,0 +1,12 @@
+{
+  "order": 36,
+  "title": "SHRIMP",
+  "menu_type": "Lunch",
+  "category": "menu_category4",
+  "item_price": [
+    {
+      "price": "6"
+    }
+  ],
+  "detail": "<p>ebi</p>"
+}

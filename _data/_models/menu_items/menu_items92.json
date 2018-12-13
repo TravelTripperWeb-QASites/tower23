@@ -1,0 +1,11 @@
+{
+  "title": "CHICKEN + WAFFLES",
+  "menu_type": "Brunch",
+  "item_price": [
+    {
+      "price": "15"
+    }
+  ],
+  "detail": "<p>whole grain studded waffle, crispy fried chicken, chili-garlic honey, whipped butter, bourbon maple syrup</p>",
+  "order": 12
+}

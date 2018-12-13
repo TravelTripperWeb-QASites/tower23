@@ -1,0 +1,12 @@
+{
+  "title": "BAJA SHRIMP COCKTAIL",
+  "menu_type": "Sushi + Raw",
+  "category": "menu_category3",
+  "item_price": [
+    {
+      "price": "16"
+    }
+  ],
+  "detail": "<p>clam juice, tomato, cucumbers, avocado, tortilla strips</p>",
+  "order": 6
+}

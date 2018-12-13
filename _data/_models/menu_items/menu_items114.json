@@ -1,0 +1,12 @@
+{
+  "order": 35,
+  "title": "FISH + CHIPS",
+  "menu_type": "Brunch",
+  "category": "menu_category1",
+  "item_price": [
+    {
+      "price": "16"
+    }
+  ],
+  "detail": "<p>alaskan cod, local IPA beer batter, garlic fries, kombu tartar sauce, charred lemon, malt vinegar</p>"
+}

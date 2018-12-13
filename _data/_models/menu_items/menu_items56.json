@@ -1,0 +1,12 @@
+{
+  "order": 45,
+  "menu_type": "Lunch",
+  "category": "menu_category3",
+  "title": "KING CRAB LEGS",
+  "item_price": [
+    {
+      "price": "31"
+    }
+  ],
+  "detail": "<p>half pound, vanilla-honey mustard sauce</p>"
+}
