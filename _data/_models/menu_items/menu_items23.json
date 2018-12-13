@@ -1,0 +1,12 @@
+{
+  "title": "FRIED CHICKEN SANDWICH",
+  "menu_type": "Lunch",
+  "category": "menu_category1",
+  "item_price": [
+    {
+      "price": "14"
+    }
+  ],
+  "detail": "<p>sriracha aioli, bread and butter pickles, cabbage slaw, brioche, garlic fries or salad</p>",
+  "order": 12
+}

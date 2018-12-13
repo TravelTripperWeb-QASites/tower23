@@ -1,0 +1,12 @@
+{
+  "title": "AHI TUNA NACHOS",
+  "menu_type": "Lunch",
+  "category": "menu_category2",
+  "item_price": [
+    {
+      "price": "13"
+    }
+  ],
+  "detail": "<p>avocado, mango, fresno chilies, chives, shiso, cilantro, crispy wonton chips, sriracha aioli, sesame seeds</p>",
+  "order": 5
+}

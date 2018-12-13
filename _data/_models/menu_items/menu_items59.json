@@ -1,0 +1,12 @@
+{
+  "order": 48,
+  "menu_type": "Lunch",
+  "category": "menu_category9",
+  "title": " CHOOSE YOUR FISH",
+  "item_price": [
+    {
+      "name": "choose one"
+    }
+  ],
+  "detail": "<ul>\n<li>ahi tuna</li>\n<li>salmon</li>\n<li>yellowtail</li>\n<li>seared albacore</li>\n<li>octopus</li>\n<li>crab salad</li>\n</ul>\n<p>+ add an extra protein 9</p>"
+}

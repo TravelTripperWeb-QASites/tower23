@@ -1,0 +1,15 @@
+{
+  "order": 32,
+  "title": "SALMON",
+  "menu_type": "Lunch",
+  "category": "menu_category4",
+  "item_price": [
+    {
+      "price": "7"
+    },
+    {
+      "price": "15"
+    }
+  ],
+  "detail": "<p>nama sake</p>"
+}

@@ -1,0 +1,12 @@
+{
+  "order": 28,
+  "title": "CATERPILLAR ROLL",
+  "menu_type": "Lunch",
+  "category": "menu_category7",
+  "item_price": [
+    {
+      "price": "10"
+    }
+  ],
+  "detail": "<p>crab, cucumber, avocado, bbq eel</p>"
+}

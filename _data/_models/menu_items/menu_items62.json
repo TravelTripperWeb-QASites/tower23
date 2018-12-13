@@ -1,0 +1,12 @@
+{
+  "order": 51,
+  "title": " CHOOSE YOUR SAUCE",
+  "menu_type": "Lunch",
+  "category": "menu_category9",
+  "item_price": [
+    {
+      "name": "choose two"
+    }
+  ],
+  "detail": "<ul>\n<li>eel sauce</li>\n<li>ponzu vinaigrette</li>\n<li>sriracha aioli</li>\n<li>teriyaki</li>\n<li>yuzu-miso vinaigrette</li>\n</ul>\n<p>+ add extra sauce 1</p>"
+}

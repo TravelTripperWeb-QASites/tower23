@@ -1,0 +1,17 @@
+{
+  "menu_type": "Sushi + Raw",
+  "category": "menu_category24",
+  "title": "COEDO",
+  "item_price": [
+    {
+      "name": "14oz",
+      "price": "9"
+    },
+    {
+      "name": "20oz",
+      "price": "11"
+    }
+  ],
+  "detail": "<p>5.0% ruri pilsner</p>\n<p>japan</p>",
+  "order": 12
+}

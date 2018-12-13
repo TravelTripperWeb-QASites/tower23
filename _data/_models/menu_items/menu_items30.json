@@ -1,0 +1,12 @@
+{
+  "category": "menu_category6",
+  "menu_type": "Lunch",
+  "title": "ROULETTE",
+  "item_price": [
+    {
+      "price": "15"
+    }
+  ],
+  "detail": "<p>fried shishito peppers, crab, avocado, torched salmon, spicy aioli, eel sauce</p>",
+  "order": 19
+}

@@ -1,0 +1,11 @@
+{
+  "title": "BERRY FRENCH TOAST",
+  "menu_type": "Breakfast",
+  "item_price": [
+    {
+      "price": "14"
+    }
+  ],
+  "detail": "<p>thick cut brioche, local berries, sweet ricotta, lemon curd, powdered sugar, maple syrup</p>",
+  "order": 9
+}

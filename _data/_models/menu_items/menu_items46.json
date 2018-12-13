@@ -1,0 +1,15 @@
+{
+  "order": 35,
+  "menu_type": "Lunch",
+  "title": "OCTOPUS",
+  "category": "menu_category4",
+  "item_price": [
+    {
+      "price": "7"
+    },
+    {
+      "price": "15"
+    }
+  ],
+  "detail": "<p>tako</p>"
+}

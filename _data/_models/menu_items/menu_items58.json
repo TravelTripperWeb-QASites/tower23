@@ -1,0 +1,17 @@
+{
+  "order": 47,
+  "menu_type": "Lunch",
+  "category": "menu_category3",
+  "title": "JRDN SEAFOOD TOWER",
+  "detail": "<p>oysters, shrimp, king crab legs, lobster, chef&rsquo;s poke</p>",
+  "item_price": [
+    {
+      "name": "small",
+      "price": "65"
+    },
+    {
+      "name": "large",
+      "price": "125"
+    }
+  ]
+}

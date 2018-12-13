@@ -1,0 +1,12 @@
+{
+  "order": 30,
+  "title": "PHILADELPHIA",
+  "menu_type": "Lunch",
+  "category": "menu_category7",
+  "item_price": [
+    {
+      "price": "9"
+    }
+  ],
+  "detail": "<p>salmon, cream cheese, cucumber</p>"
+}

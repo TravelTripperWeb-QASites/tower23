@@ -1,0 +1,12 @@
+{
+  "menu_type": "Lunch",
+  "title": "STEAK + BLUE SALAD",
+  "category": "menu_category5",
+  "item_price": [
+    {
+      "price": "23"
+    }
+  ],
+  "detail": "<p>skirt steak, grilled romaine, blue cheese, crispy shallots, shaved radish, blistered cherry tomatoes</p>",
+  "order": 10
+}

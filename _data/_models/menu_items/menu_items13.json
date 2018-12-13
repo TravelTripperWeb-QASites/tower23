@@ -1,0 +1,12 @@
+{
+  "title": "STEAMED MUSSELS",
+  "menu_type": "Lunch",
+  "category": "menu_category2",
+  "detail": "<p>chorizo, garlic, chardonnay, tomato-fennel, cream, herb butter</p>",
+  "item_price": [
+    {
+      "price": "18"
+    }
+  ],
+  "order": 2
+}

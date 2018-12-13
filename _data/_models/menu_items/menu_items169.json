@@ -1,0 +1,17 @@
+{
+  "title": "SAPPORO",
+  "menu_type": "Sushi + Raw",
+  "category": "menu_category24",
+  "detail": "<p>4.9% lager</p>\n<p>japan</p>",
+  "item_price": [
+    {
+      "name": "14oz",
+      "price": "8"
+    },
+    {
+      "name": "20oz",
+      "price": "10"
+    }
+  ],
+  "order": 11
+}

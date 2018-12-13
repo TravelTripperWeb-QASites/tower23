@@ -1,0 +1,12 @@
+{
+  "title": "FRIED BRUSSELS SPROUTS",
+  "menu_type": "Lunch",
+  "category": "menu_category2",
+  "item_price": [
+    {
+      "price": "11"
+    }
+  ],
+  "detail": "<p>bacon jam, red eye gravy, candied pecans, blue cheese</p>",
+  "order": 3
+}

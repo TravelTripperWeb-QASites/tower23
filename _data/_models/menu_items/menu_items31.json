@@ -1,0 +1,12 @@
+{
+  "order": 20,
+  "title": "POKE ROLL",
+  "menu_type": "Lunch",
+  "category": "menu_category6",
+  "item_price": [
+    {
+      "price": "16"
+    }
+  ],
+  "detail": "<p>tempura shrimp, avocado, cucumber, spicy tuna, wakame, chili-garlic bbq, ponzu, mijinko</p>"
+}

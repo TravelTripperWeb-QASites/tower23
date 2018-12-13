@@ -1,0 +1,19 @@
+{
+  "title": "EGGS BENEDICT",
+  "menu_type": "Breakfast",
+  "item_price": [
+    {
+      "price": "14"
+    },
+    {
+      "name": "lox",
+      "price": "15"
+    },
+    {
+      "name": "kobe",
+      "price": "16"
+    }
+  ],
+  "detail": "<p>choose a style, served with hollandaise sauce, breakfast potatoes or fruit</p>",
+  "order": 5
+}

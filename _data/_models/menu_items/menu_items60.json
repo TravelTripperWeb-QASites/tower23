@@ -1,0 +1,12 @@
+{
+  "order": 49,
+  "category": "menu_category9",
+  "menu_type": "Lunch",
+  "title": "CHOOSE YOUR BASE",
+  "item_price": [
+    {
+      "name": "choose one"
+    }
+  ],
+  "detail": "<ul>\n<li>organic greens</li>\n<li>sushi rice</li>\n<li>brown rice</li>\n</ul>\n<p>+ add an extra base 2</p>"
+}

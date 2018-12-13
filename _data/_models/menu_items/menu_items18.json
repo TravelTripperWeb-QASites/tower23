@@ -1,0 +1,12 @@
+{
+  "title": "CRISPY CHICKEN SALAD",
+  "menu_type": "Lunch",
+  "category": "menu_category5",
+  "item_price": [
+    {
+      "price": "13"
+    }
+  ],
+  "detail": "<p>cabbage, carrots, bell pepper, green onions, edamame, crispy wontons, peanut sauce, cilantro, sweet + spicy sesame cashews</p>",
+  "order": 7
+}

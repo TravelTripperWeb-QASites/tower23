@@ -1,0 +1,12 @@
+{
+  "order": 46,
+  "menu_type": "Lunch",
+  "category": "menu_category3",
+  "title": "HALF MAINE LOBSTER",
+  "item_price": [
+    {
+      "price": "35"
+    }
+  ],
+  "detail": "<p>yuzu drawn butter</p>"
+}

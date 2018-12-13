@@ -1,0 +1,12 @@
+{
+  "title": "GERMAIN-ROBIN",
+  "menu_type": "Dessert",
+  "category": "menu_category12",
+  "item_price": [
+    {
+      "name": "craft - method",
+      "price": "11"
+    }
+  ],
+  "order": 10
+}

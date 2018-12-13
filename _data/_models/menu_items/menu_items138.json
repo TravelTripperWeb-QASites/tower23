@@ -1,0 +1,12 @@
+{
+  "order": 20,
+  "category": "menu_category20",
+  "menu_type": "Dinner",
+  "title": "GRILLED SALMON",
+  "item_price": [
+    {
+      "price": "26"
+    }
+  ],
+  "detail": "<p>king trumpet mushrooms, caramelized fennel, edamame, crispy fried daikon, thai basil</p>"
+}

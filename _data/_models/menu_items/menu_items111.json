@@ -1,0 +1,12 @@
+{
+  "order": 32,
+  "title": "GRILLED FISH TACOS",
+  "menu_type": "Brunch",
+  "category": "menu_category1",
+  "item_price": [
+    {
+      "price": "13"
+    }
+  ],
+  "detail": "<p>cabbage, chili-lime crema, pico de gallo, lime, garlic fries or salad</p>"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "LATTE",
+  "menu_type": "Dessert",
+  "category": "menu_category11",
+  "item_price": [
+    {
+      "price": "6"
+    }
+  ],
+  "order": 8
+}
