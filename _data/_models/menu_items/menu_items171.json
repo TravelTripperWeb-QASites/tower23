@@ -1,0 +1,17 @@
+{
+  "menu_type": "Sushi + Raw",
+  "category": "menu_category24",
+  "title": "SAINT ARCHER",
+  "detail": "<p>5.2% pale ale</p>\n<p>san diego</p>",
+  "order": 13,
+  "item_price": [
+    {
+      "name": "14oz",
+      "price": "8"
+    },
+    {
+      "price": "10",
+      "name": "20oz"
+    }
+  ]
+}

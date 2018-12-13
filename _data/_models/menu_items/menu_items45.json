@@ -1,0 +1,15 @@
+{
+  "order": 34,
+  "menu_type": "Lunch",
+  "title": "SEARED ALBACORE",
+  "category": "menu_category4",
+  "item_price": [
+    {
+      "price": "6"
+    },
+    {
+      "price": "16"
+    }
+  ],
+  "detail": "<p>shiro maguro</p>"
+}

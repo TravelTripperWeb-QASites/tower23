@@ -1,0 +1,12 @@
+{
+  "order": 30,
+  "title": "TOWER BURGER",
+  "menu_type": "Brunch",
+  "category": "menu_category1",
+  "item_price": [
+    {
+      "price": "14"
+    }
+  ],
+  "detail": "<p>1/3 pound patty, sharp white cheddar, aioli, lettuce, tomato, onions, broiche, garlic fries or salad</p>"
+}

@@ -1,0 +1,12 @@
+{
+  "order": 41,
+  "title": "GREEN SALAD",
+  "menu_type": "Lunch",
+  "category": "menu_category8",
+  "item_price": [
+    {
+      "price": "6"
+    }
+  ],
+  "detail": "<p>ginger dressing</p>"
+}

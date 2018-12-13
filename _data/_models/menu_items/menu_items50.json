@@ -1,0 +1,12 @@
+{
+  "order": 39,
+  "title": "EDAMAME",
+  "menu_type": "Lunch",
+  "category": "menu_category8",
+  "item_price": [
+    {
+      "price": "8"
+    }
+  ],
+  "detail": "<p>toasted garlic ponzu</p>"
+}

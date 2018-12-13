@@ -1,0 +1,13 @@
+{
+  "title": "CHEF’S PLATE",
+  "menu_type": "Lunch",
+  "category": "menu_category4",
+  "detail": "<p>chef&rsquo;s selection of sushi-sashimi-nigiri</p>",
+  "item_price": [
+    {
+      "name": "26pcs",
+      "price": "50"
+    }
+  ],
+  "order": 38
+}

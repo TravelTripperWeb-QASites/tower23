@@ -1,0 +1,17 @@
+{
+  "title": "OYSTERS",
+  "menu_type": "Sushi + Raw",
+  "category": "menu_category3",
+  "detail": "<p>cucumber-hibiscus mignonette, cocktail sauce, lemon</p>",
+  "order": 5,
+  "item_price": [
+    {
+      "name": "half dozen",
+      "price": "19"
+    },
+    {
+      "name": "one dozen",
+      "price": "36"
+    }
+  ]
+}

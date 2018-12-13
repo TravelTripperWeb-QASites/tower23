@@ -1,0 +1,17 @@
+{
+  "menu_type": "Sushi + Raw",
+  "category": "menu_category24",
+  "order": 15,
+  "title": "ANCHOR BREWING",
+  "item_price": [
+    {
+      "name": "14oz",
+      "price": "8"
+    },
+    {
+      "name": "20oz",
+      "price": "10"
+    }
+  ],
+  "detail": "<p>seasonal, please inquire</p>\n<p>san francisco&nbsp;</p>"
+}

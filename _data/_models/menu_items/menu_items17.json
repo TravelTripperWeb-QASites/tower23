@@ -1,0 +1,12 @@
+{
+  "title": "WINGS",
+  "menu_type": "Lunch",
+  "category": "menu_category2",
+  "item_price": [
+    {
+      "price": "13"
+    }
+  ],
+  "detail": "<p>chili-garlic bbq, green onions, peanuts, carrots, celery, buttermilk ranch</p>",
+  "order": 6
+}

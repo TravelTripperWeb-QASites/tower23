@@ -1,0 +1,11 @@
+{
+  "title": "CHILAQUILES + EGGS",
+  "menu_type": "Brunch",
+  "order": 11,
+  "detail": "<p>chorizo, guajillo chili salsa, queso fresco, pico de gallo, avocado, lime crema</p>",
+  "item_price": [
+    {
+      "price": "16"
+    }
+  ]
+}

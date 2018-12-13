@@ -1,0 +1,15 @@
+{
+  "order": 33,
+  "title": "YELLOWTAIL",
+  "menu_type": "Lunch",
+  "category": "menu_category4",
+  "item_price": [
+    {
+      "price": "8"
+    },
+    {
+      "price": "18"
+    }
+  ],
+  "detail": "<p>hamachi</p>"
+}

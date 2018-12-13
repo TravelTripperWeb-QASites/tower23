@@ -1,0 +1,12 @@
+{
+  "title": "EDAMAME",
+  "menu_type": "Sushi + Raw",
+  "category": "menu_category8",
+  "item_price": [
+    {
+      "price": "8"
+    }
+  ],
+  "detail": "<p>toasted garlic ponzu</p>",
+  "order": 1
+}

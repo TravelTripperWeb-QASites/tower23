@@ -1,0 +1,15 @@
+{
+  "order": 31,
+  "category": "menu_category4",
+  "title": "AHI TUNA",
+  "menu_type": "Lunch",
+  "item_price": [
+    {
+      "price": "8"
+    },
+    {
+      "price": "18"
+    }
+  ],
+  "detail": "<p>maguro</p>"
+}

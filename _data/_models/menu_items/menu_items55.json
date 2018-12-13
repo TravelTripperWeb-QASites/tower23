@@ -1,0 +1,12 @@
+{
+  "order": 44,
+  "menu_type": "Lunch",
+  "category": "menu_category3",
+  "title": "BAJA SHRIMP COCKTAIL",
+  "item_price": [
+    {
+      "price": "16"
+    }
+  ],
+  "detail": "<p>clam juice, tomato, cucumbers, avocado, tortilla strips</p>"
+}

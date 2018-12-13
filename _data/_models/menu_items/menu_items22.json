@@ -1,0 +1,12 @@
+{
+  "title": "LOBSTER B.L.T.",
+  "menu_type": "Lunch",
+  "category": "menu_category1",
+  "item_price": [
+    {
+      "price": "21"
+    }
+  ],
+  "detail": "<p>tarragon aioli, bacon, butter lettuce, tomato, brioche, garlic fries or salad</p>",
+  "order": 11
+}

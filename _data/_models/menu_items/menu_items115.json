@@ -1,0 +1,12 @@
+{
+  "title": "WELL COCKTAILS",
+  "menu_type": "Drinks",
+  "category": "menu_category16",
+  "detail": "<p>single liquor</p>",
+  "order": 1,
+  "item_price": [
+    {
+      "price": "6"
+    }
+  ]
+}

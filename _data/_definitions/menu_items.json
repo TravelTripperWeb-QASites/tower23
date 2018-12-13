@@ -1,0 +1,32 @@
+{
+  "title": {
+    "label": "Title",
+    "required": true
+  },
+  "menu_type":{
+    "type": "select",
+    "options":["Breakfast","Brunch","Lunch","Dinner","Sushi + Raw","Drinks","Dessert"],
+    "required":true
+  },
+  "category": {
+    "type": "model",
+    "model_name": "menu_category",
+    "display_field": "name"
+  },
+  "item_price": {
+     "type": "nested",
+     "multiple": true,
+     "fields": {
+        "name": {
+        },
+        "price": {
+        }
+      }
+   },
+   "detail":{
+     "type": "richtext"
+   },
+   "order":{
+     "type":"integer"
+   }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "AVOCADO TOAST",
+  "menu_type": "Breakfast",
+  "item_price": [
+    {
+      "price": "16"
+    }
+  ],
+  "detail": "<p>two eggs any style, grilled lemon pugliese bread, smashed avocado, basil, breakfast potatoes or fruit</p>",
+  "order": 4
+}

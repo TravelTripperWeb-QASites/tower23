@@ -1,0 +1,12 @@
+{
+  "title": "HALF MAINE LOBSTER",
+  "menu_type": "Sushi + Raw",
+  "category": "menu_category3",
+  "item_price": [
+    {
+      "price": "35"
+    }
+  ],
+  "detail": "<p>yuzu drawn butter</p>",
+  "order": 8
+}

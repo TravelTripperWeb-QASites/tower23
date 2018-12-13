@@ -1,0 +1,11 @@
+{
+  "title": "ABC OMELET",
+  "menu_type": "Breakfast",
+  "item_price": [
+    {
+      "price": "14"
+    }
+  ],
+  "detail": "<p>avocado, bacon, cheddar, whole eggs or egg whites, breakfast potatoes or fruit</p>",
+  "order": 2
+}

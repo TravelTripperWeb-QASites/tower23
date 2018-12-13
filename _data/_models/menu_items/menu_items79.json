@@ -1,0 +1,13 @@
+{
+  "order": 17,
+  "title": "KRACHER",
+  "menu_type": "Dessert",
+  "category": "menu_category13",
+  "item_price": [
+    {
+      "name": "cuvee auslese",
+      "price": "12"
+    }
+  ],
+  "detail": "<p>riesling/chardonnay, austria</p>"
+}

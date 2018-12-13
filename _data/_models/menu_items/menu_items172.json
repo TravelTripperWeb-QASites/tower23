@@ -1,0 +1,17 @@
+{
+  "menu_type": "Sushi + Raw",
+  "category": "menu_category24",
+  "order": 14,
+  "title": "10 BARREL",
+  "item_price": [
+    {
+      "name": "14oz",
+      "price": "8"
+    },
+    {
+      "name": "20oz",
+      "price": "10"
+    }
+  ],
+  "detail": "<p>6.9% joe ipa</p>\n<p>oregon</p>"
+}

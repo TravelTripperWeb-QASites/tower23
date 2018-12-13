@@ -1,0 +1,11 @@
+{
+  "title": "JRDN BREAKFAST",
+  "menu_type": "Brunch",
+  "detail": "<p>two eggs any style, choice of bacon, ham or sausage, choice of wheat, sourdough or english muffin, breakfast potatoes or fruit</p>",
+  "item_price": [
+    {
+      "price": "13"
+    }
+  ],
+  "order": 8
+}

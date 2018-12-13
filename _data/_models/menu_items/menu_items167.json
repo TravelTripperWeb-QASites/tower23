@@ -1,0 +1,17 @@
+{
+  "title": "JRDN SEAFOOD TOWER",
+  "menu_type": "Sushi + Raw",
+  "category": "menu_category3",
+  "detail": "<p>oysters, shrimp, king crab legs, lobster, chef&rsquo;s poke</p>",
+  "item_price": [
+    {
+      "name": "small",
+      "price": "65"
+    },
+    {
+      "name": "large ",
+      "price": "125"
+    }
+  ],
+  "order": 9
+}
